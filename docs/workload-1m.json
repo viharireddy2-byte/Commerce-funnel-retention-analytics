@@ -1,0 +1,32 @@
+{
+  "python": "3.12.14",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "events": 1000000,
+  "sessions": 390454,
+  "build_seconds": 16.155143980000503,
+  "sequential_workload_seconds": [
+    0.1252207070010627,
+    0.10999294399880455,
+    0.09649704100047529
+  ],
+  "median_workload_seconds": 0.10999294399880455,
+  "returned_frame_rows": [
+    3,
+    5,
+    1000,
+    10000,
+    24,
+    3,
+    27
+  ],
+  "concurrent_clients": 4,
+  "concurrent_wall_seconds": 0.4197758479986078,
+  "concurrent_client_seconds": [
+    0.3847594050002954,
+    0.330301325999244,
+    0.4178110549983103,
+    0.20602460500049347
+  ],
+  "peak_process_rss_bytes": 2008477696,
+  "scope": "Default chart SQL, bounded sample and export page; excludes browser rendering, optional audit panels, ingestion and HTTP concurrency. Shared engine serializes queries. OS caches uncontrolled."
+}

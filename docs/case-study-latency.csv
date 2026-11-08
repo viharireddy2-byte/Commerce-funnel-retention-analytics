@@ -1,0 +1,4 @@
+device_category,stratum,users,checkouts,conversion
+desktop,<2s,3130,1825.0,0.5830670926517572
+desktop,>=2s,142,82.0,0.5774647887323944
+mobile,>=2s,5598,1795.0,0.3206502322257949

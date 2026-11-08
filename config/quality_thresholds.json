@@ -1,0 +1,8 @@
+{
+  "missing user": 0,
+  "missing session": 0,
+  "negative purchase value": 0,
+  "funnel order violation": 0,
+  "retention outside bounds": 0,
+  "missing timestamp": 0
+}

@@ -1,0 +1,32 @@
+{
+  "python": "3.12.14",
+  "duckdb": "2.0.0",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "events": 102028,
+  "repeats": 5,
+  "cache": "same-process repeated query; OS cache uncontrolled",
+  "results": {
+    "views": {
+      "startup_seconds": 0.06082367799899657,
+      "query_median_seconds": 5.685813875999884,
+      "query_seconds": [
+        5.922608634999051,
+        5.508110962000501,
+        6.479135405999841,
+        5.685813875999884,
+        5.348906924999028
+      ]
+    },
+    "materialized": {
+      "startup_seconds": 1.7915012920002482,
+      "query_median_seconds": 0.001813230999687221,
+      "query_seconds": [
+        0.0017959160013560904,
+        0.0020169029994576704,
+        0.001813230999687221,
+        0.0016586459987593116,
+        0.0020214670003042556
+      ]
+    }
+  }
+}

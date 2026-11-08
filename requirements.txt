@@ -1,0 +1,11 @@
+pandas==2.2.0
+plotly==5.18.0
+streamlit==1.31.0
+google-cloud-bigquery==3.17.1
+db-dtypes==1.2.0
+jupyter==1.0.0
+duckdb>=1.0.0
+scipy>=1.11.0
+kaleido>=0.2.1
+numpy>=1.24,<2
+pyarrow>=14,<20

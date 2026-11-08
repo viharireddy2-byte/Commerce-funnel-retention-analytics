@@ -1,0 +1,9 @@
+{
+  "common_strata": 5,
+  "eligible_users": 8870,
+  "standardized_mobile": 0.3208155782480704,
+  "standardized_desktop": 0.5831022568443394,
+  "gap": -0.262286678596269,
+  "ci_lower": -0.2831363386845239,
+  "ci_upper": -0.241437018508014
+}
